@@ -1,0 +1,91 @@
+body{
+font-family: Montserrat;
+}
+
+p{
+  font-family: Montserrat;
+}
+
+/* Title section */
+h2{
+color: #cff1ef;
+font-family: Pacifico;
+font-size: 3rem;
+}
+p.title{
+  color: #cff1ef;
+  font-family: Pacifico;
+  font-size: 2rem;
+}
+.my-pic{
+  width: 50%;
+}
+.container-fluid{
+  background-color: #05dfd7;
+  text-align: center;
+  padding: 4%;
+}
+.nav-link{
+  color: #323232;
+}
+.nav-link:hover{
+  color: #000000;
+}
+.title-row{
+  margin: 4%;
+  text-align: center;
+}
+
+/* Why me section */
+
+
+/* Completed Projects section */
+
+
+/* For sale section */
+
+
+/* contact me section */
+#Contact-me{
+  background-color: #fff;
+  color: #5b8c5a;
+  padding: 10%;
+  text-align: center;
+}
+.contact-heading{
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 10%;
+  font-family: Pacifico;
+}
+.contact-icon{
+  font-size: 3rem;
+  padding: 4%;
+  text-align: center;
+}
+.insta{
+  color: #F73102;
+}
+.fb{
+  color: #3A5894;
+}
+.linkedin{
+  color: #0183C1;
+}
+.twitter{
+  color: #00A7E7;
+}
+.email{
+  color: #D4493C;
+}
+.call{
+  color: #2E67BF;
+}
+
+/* Footer Section */
+#footer
+{
+  background-color: #c2e8ce;
+  padding: 3%;
+  text-align: center;
+}
